@@ -9,6 +9,7 @@ allprojects {
 	}
 }
 ```
+## 在App的build.gradle文件中添加
 
 ### base_socket socket tcp/udp 通信 [![](https://jitpack.io/v/wave-chtj/BaseSocket.svg)](https://jitpack.io/#wave-chtj/BaseSocket)
 
